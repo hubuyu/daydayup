@@ -2,4 +2,5 @@ Git is a version control software
 Git is a distributed version control software
 Git is free software
 Git has a mutable index called stage
-Git tracks files 
+Git tracks files
+My company is using clearcase 
